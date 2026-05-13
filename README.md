@@ -1,31 +1,55 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Hi%20there,%20I'm%20Soynchux%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:203a43,100:2c5364&text=SOYNCHUX&fontSize=70&fontColor=00f5ff&stroke=ffffff&strokeWidth=1&animation=twinkling&desc=Frontend%20Developer%20in%20Progress%20🚀&descSize=22&descAlignY=70" />
 
 <div align="center">
 
-# 🚀 Frontend Developer in Progress
-
-### JavaScript enjoyer • Open source learner • Building random things when bored
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00C9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+Wannabe;React+%26+JavaScript+Learner;I+build+things+for+fun;Always+learning+something+new" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2300&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=JavaScript+Enjoyer+⚡;React+Learner+⚛️;Frontend+Developer+Wannabe+🚀;I+build+random+things+when+bored+🧃;Learning+by+breaking+things+💀" />
 
 <br />
 
-[![GitHub followers](https://img.shields.io/github/followers/soynchux?style=for-the-badge&color=00C9FF&labelColor=111827)](https://github.com/soynchux)
-[![Profile views](https://komarev.com/ghpvc/?username=soynchux&style=for-the-badge&color=00C9FF)](https://github.com/soynchux)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soynchux@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=soynchux&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/soynchux?style=for-the-badge&color=00f5ff&labelColor=111827&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/Madrid-111827?style=for-the-badge&logo=googlemaps&logoColor=00f5ff" />
+<img src="https://img.shields.io/badge/Frontend-Wannabe-00f5ff?style=for-the-badge&labelColor=111827" />
 
 </div>
 
 ---
 
+<div align="center">
+
+## ⚡ Welcome to my little dev chaos
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soynchux&theme=tokyonight" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
 ## 🧑‍💻 About Me
 
 ```js
-const soynchux = {
-  location: "Madrid",
-  role: "Frontend Developer Wannabe",
-  currentlyLearning: ["React", "TypeScript", "Backend Basics"],
-  techStack: ["JavaScript", "React", "HTML", "CSS", "TailwindCSS", "Git"],
-  funFact: "I build random things when bored.",
-  goal: "Become better every single day 🚀"
-};
+class Soynchux {
+  constructor() {
+    this.name = "Soynchux";
+    this.location = "Madrid";
+    this.role = "Frontend Developer in Progress";
+    this.energy = "JavaScript + Coffee";
+  }
+
+  currentlyLearning() {
+    return [
+      "React Ecosystem",
+      "TypeScript",
+      "Backend Basics",
+      "Better UI/UX"
+    ];
+  }
+
+  funFact() {
+    return "I build random things when bored.";
+  }
+}
